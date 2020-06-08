@@ -24,6 +24,7 @@ echo "oooooooooo.                      oooo
 o888bood8P\'   \`Y888\"\"8o d888b    o888o o888o      \`V8bod888   \`V88V\"V8P\' \`Y8bod8P\' \`Y8bod8P\' o888o o88800
 "
 sleep 10
+clear
   echo "----------------------------------------
         |                                      |
         | Author : DarkLord14                  | 
