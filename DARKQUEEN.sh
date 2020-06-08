@@ -21,8 +21,18 @@ echo "oooooooooo.                      oooo
  888      888 \`P  )88b  \`888\"\"8P  888 .8P\'        d88\' \`888  \`888  \`888  d88\' \`88b d88\' \`88b \`888P\"Y88b  
  888      888  .oP\"888   888      888888.         888   888   888   888  888ooo888 888ooo888  888   888  
  888     d88\' d8(  888   888      888 \`88b.       888   888   888   888  888    .o 888    .o  888   888  
-o888bood8P\'   \`Y888\"\"8o d888b    o888o o888o      \`V8bod888   \`V88V\"V8P\' \`Y8bod8P\' \`Y8bod8P\' o888o o888o 
-                                                        888.                        8P\'                                              
+o888bood8P\'   \`Y888\"\"8o d888b    o888o o888o      \`V8bod888   \`V88V\"V8P\' \`Y8bod8P\' \`Y8bod8P\' o888o o888o
+sleep 10
+  echo "----------------------------------------
+        |                                      |
+        | Author : DarkLord14                  | 
+        | Website: https://darklord14com.      |
+        |          wordpress.com/2020/05/15/   |
+        |          tutorial-menggunakan-termux/|
+        | Email  : misteranonymuse@gmail.com   |
+        | Whatssapp : +62-831-9552-1552        |
+        ----------------------------------------"
+                                                                                8P\'                                              
 "
  echo -e $blue "saya kenalkan bot saya"
  echo -e $blue " dia berwatak ramah"
@@ -126,6 +136,10 @@ submenu(){
         echo -e $white "https://youtu.be/R0GCkdo3HW4 ( tutorial buat script deface)"
         echo -e $red "https://youtu.be/npMUKgK9we0 ( tutorial install metasploit di termux )"
         echo -e $blue "https://youtu.be/5MGbV6Lb48Q ( tutorial pake termux pemula part 2 )"
+        echo -e $green "https://youtu.be/XmY2X1Yr8to ( tutorial deface POC Xss )"
+        echo -e $green "https://youtu.be/n0jrmg6LJ9U ( tutorial deface POC SQL Injection with dios )"
+        echo -e $green "https://youtu.be/tnlYIWNobwk ( tutorial deface POC regmem Web berita )"
+         sleep 20 
       ;;
       6) 
         echo -e "perasaan saya terhadap anda"
